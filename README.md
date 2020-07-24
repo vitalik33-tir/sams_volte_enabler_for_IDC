@@ -1,2 +1,1 @@
-# sams_volte_enabler_for_IDC
 sams_volte_enabler_for_IDC
